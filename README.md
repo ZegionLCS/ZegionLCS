@@ -19,7 +19,7 @@ Tenho interesse, mas ainda não comecei:
 </div>
 #________________
  
- ## E-mail para contato: contatomatheusdealmeida@gmail.com
+ ## E-mail para contato: contatolucasvalledasilva@gmail.com
  <div>
  <a href="https://www.linkedin.com/in/lucasvalledasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
